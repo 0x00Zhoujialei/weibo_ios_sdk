@@ -182,6 +182,11 @@ the server cannot be made."这样的问题。
 需要在每一个域名下添加NSExceptionMinimumTLSVersion这样的key，值的部分为TLSv1.0
 
 
+# xcframework
+
+xcframework包在libWeiboSDK_xc文件夹下
+
+
 # 3.2.0版本更新
 
 微博移动SDK3.2，围绕 “分享＋连接” 这个核心主题，面向开发者，规划的主要功能模块只有4个：SDK初始化、用微博帐号登录、分享到微博、连接到微博。其他的功能已经转移，下线或在未来不久的版本即将下线。具体变动的功能如下：
